@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Books>
+  <Table>
+    <BookId>1</BookId>
+    <Title>Asp.net</Title>
+    <Author>abc</Author>
+    <Price>200</Price>
+  </Table>
+  <Table>
+    <BookId>2</BookId>
+    <Title>C++</Title>
+    <Author>wer</Author>
+    <Price>500</Price>
+  </Table>
+</Books>
